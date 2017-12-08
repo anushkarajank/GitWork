@@ -1,0 +1,7 @@
+Customer ID,Product Purchased,Product Type,Price,Order Status,Time of purchase,Discount,Invoice,Invoice date
+1,Jeans,Appearal,12,Delivered, 07:00:11 PM,0,#10287,15-10-2016
+1,Helmet,Kit,23,Delivered, 02:00:11 AM,0,#10288,15-10-2016
+3,Skirt,Appearal,11,Delivered, 13:45:11 AM,0,#10387,15-10-2016
+2,Bag,Bags,43,Delivered, 07:00:11 PM,0,#10257,15-10-2016
+2,Helmet,Kit,56,Delivered, 13:45:11 AM,0,#10227,15-10-2016
+2,Bag,Bags,77,Delivered, 23:30:22 PM,0,#10297,15-10-2016
